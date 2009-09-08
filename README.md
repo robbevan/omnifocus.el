@@ -1,0 +1,1 @@
+Capture tasks from Emacs to OmniFocus' Quick Entry window
